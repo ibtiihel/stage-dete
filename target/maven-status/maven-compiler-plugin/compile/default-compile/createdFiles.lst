@@ -1,0 +1,16 @@
+com/example/SpringV1/tn/talan/Dto/PostDto.class
+com/example/SpringV1/SpringV1Application.class
+com/example/SpringV1/tn/talan/Controller/categoryController.class
+com/example/SpringV1/tn/talan/Service/categoryService.class
+com/example/SpringV1/tn/talan/Helper/ApplicationConfig.class
+com/example/SpringV1/tn/talan/ServiceImpl/PostServiceImpl.class
+com/example/SpringV1/tn/talan/Repository/categoryRepository.class
+com/example/SpringV1/tn/talan/Controller/postController.class
+com/example/SpringV1/tn/talan/Service/postService.class
+com/example/SpringV1/tn/talan/Repository/postRepository.class
+com/example/SpringV1/tn/talan/ServiceImpl/categoryServiceImpl.class
+com/example/SpringV1/tn/talan/CORS/CORSFilter.class
+com/example/SpringV1/tn/talan/Helper/ModelMapperConverter.class
+com/example/SpringV1/tn/talan/Entity/Post.class
+com/example/SpringV1/tn/talan/Dto/CategoryDto.class
+com/example/SpringV1/tn/talan/Entity/Category.class

@@ -1,0 +1,16 @@
+/home/ibtihel/Desktop/ibtihellatrech-master/Activité1.2.2/src/main/java/com/example/SpringV1/tn/talan/Dto/CategoryDto.java
+/home/ibtihel/Desktop/ibtihellatrech-master/Activité1.2.2/src/main/java/com/example/SpringV1/tn/talan/Repository/postRepository.java
+/home/ibtihel/Desktop/ibtihellatrech-master/Activité1.2.2/src/main/java/com/example/SpringV1/tn/talan/Helper/ModelMapperConverter.java
+/home/ibtihel/Desktop/ibtihellatrech-master/Activité1.2.2/src/main/java/com/example/SpringV1/tn/talan/Entity/Category.java
+/home/ibtihel/Desktop/ibtihellatrech-master/Activité1.2.2/src/main/java/com/example/SpringV1/tn/talan/Entity/Post.java
+/home/ibtihel/Desktop/ibtihellatrech-master/Activité1.2.2/src/main/java/com/example/SpringV1/tn/talan/Helper/ApplicationConfig.java
+/home/ibtihel/Desktop/ibtihellatrech-master/Activité1.2.2/src/main/java/com/example/SpringV1/tn/talan/CORS/CORSFilter.java
+/home/ibtihel/Desktop/ibtihellatrech-master/Activité1.2.2/src/main/java/com/example/SpringV1/tn/talan/Repository/categoryRepository.java
+/home/ibtihel/Desktop/ibtihellatrech-master/Activité1.2.2/src/main/java/com/example/SpringV1/tn/talan/ServiceImpl/PostServiceImpl.java
+/home/ibtihel/Desktop/ibtihellatrech-master/Activité1.2.2/src/main/java/com/example/SpringV1/tn/talan/Service/postService.java
+/home/ibtihel/Desktop/ibtihellatrech-master/Activité1.2.2/src/main/java/com/example/SpringV1/tn/talan/Controller/postController.java
+/home/ibtihel/Desktop/ibtihellatrech-master/Activité1.2.2/src/main/java/com/example/SpringV1/tn/talan/Service/categoryService.java
+/home/ibtihel/Desktop/ibtihellatrech-master/Activité1.2.2/src/main/java/com/example/SpringV1/SpringV1Application.java
+/home/ibtihel/Desktop/ibtihellatrech-master/Activité1.2.2/src/main/java/com/example/SpringV1/tn/talan/ServiceImpl/categoryServiceImpl.java
+/home/ibtihel/Desktop/ibtihellatrech-master/Activité1.2.2/src/main/java/com/example/SpringV1/tn/talan/Dto/PostDto.java
+/home/ibtihel/Desktop/ibtihellatrech-master/Activité1.2.2/src/main/java/com/example/SpringV1/tn/talan/Controller/categoryController.java
