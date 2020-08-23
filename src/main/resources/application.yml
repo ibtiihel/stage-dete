@@ -1,0 +1,10 @@
+spring:
+    profiles:
+        active: h2
+    jpa:
+        hibernate:
+            naming_strategiy: org.hibernate.cfg.ImprovedNamingStrategy
+    datasource:
+        hikari:
+            username: sam
+            password: sam
