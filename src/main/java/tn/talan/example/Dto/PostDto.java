@@ -1,4 +1,4 @@
-package com.example.SpringV1.tn.talan.Dto;
+package tn.talan.example.Dto;
 
 import com.fasterxml.jackson.annotation.JsonFormat;
 

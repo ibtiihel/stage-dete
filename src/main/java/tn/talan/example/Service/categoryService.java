@@ -1,6 +1,6 @@
-package com.example.SpringV1.tn.talan.Service;
-import com.example.SpringV1.tn.talan.Dto.CategoryDto;
-import com.example.SpringV1.tn.talan.Entity.Category;
+package tn.talan.example.Service;
+import tn.talan.example.Dto.CategoryDto;
+import tn.talan.example.Entity.Category;
 
 
 import java.util.List;

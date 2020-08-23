@@ -1,10 +1,6 @@
-package com.example.SpringV1.tn.talan.Controller;
-import com.example.SpringV1.tn.talan.Dto.PostDto;
-import com.example.SpringV1.tn.talan.Repository.postRepository;
-import com.example.SpringV1.tn.talan.Entity.Post;
-import com.example.SpringV1.tn.talan.Service.postService;
-import com.example.SpringV1.tn.talan.ServiceImpl.PostServiceImpl;
-import org.modelmapper.ModelMapper;
+package tn.talan.example.Controller;
+import tn.talan.example.Dto.PostDto;
+import tn.talan.example.Entity.Post;
 
 
 import org.springframework.beans.factory.annotation.Autowired;
@@ -17,7 +13,7 @@ import java.util.List;
 @RequestMapping("/post")
 public class postController {
     @Autowired
-    private postService postService;
+    private tn.talan.example.Service.postService postService;
 
     public postController() {
     }

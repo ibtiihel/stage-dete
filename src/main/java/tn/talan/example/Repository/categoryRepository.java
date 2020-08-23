@@ -1,6 +1,6 @@
-package com.example.SpringV1.tn.talan.Repository;
+package tn.talan.example.Repository;
 
-import com.example.SpringV1.tn.talan.Entity.Category;
+import tn.talan.example.Entity.Category;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

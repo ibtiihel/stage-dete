@@ -1,9 +1,4 @@
-package com.example.SpringV1.tn.talan.Dto;
-
-import com.example.SpringV1.tn.talan.Entity.Post;
-
-import javax.persistence.JoinColumn;
-import javax.persistence.ManyToOne;
+package tn.talan.example.Dto;
 
 public class CategoryDto {
 

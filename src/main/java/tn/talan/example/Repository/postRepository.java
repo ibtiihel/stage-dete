@@ -1,9 +1,8 @@
-package com.example.SpringV1.tn.talan.Repository;
+package tn.talan.example.Repository;
 
 
-import com.example.SpringV1.tn.talan.Entity.Post;
+import tn.talan.example.Entity.Post;
 import org.springframework.data.jpa.repository.JpaRepository;
-import org.springframework.stereotype.Repository;
 
 import java.util.List;
 public interface postRepository extends JpaRepository<Post, Long> {

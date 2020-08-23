@@ -1,8 +1,6 @@
-package com.example.SpringV1.tn.talan.Controller;
-import com.example.SpringV1.tn.talan.Dto.CategoryDto;
-import com.example.SpringV1.tn.talan.Entity.Category;
-import com.example.SpringV1.tn.talan.Service.categoryService;
-import org.modelmapper.ModelMapper;
+package tn.talan.example.Controller;
+import tn.talan.example.Dto.CategoryDto;
+import tn.talan.example.Entity.Category;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.*;
@@ -14,7 +12,7 @@ import java.util.List;
 
 public class categoryController {
     @Autowired
-    private categoryService categoryService;
+    private tn.talan.example.Service.categoryService categoryService;
 
     @GetMapping
     public List<Category> getAllCategory(){ return this.categoryService.getAllCategory();}

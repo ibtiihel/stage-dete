@@ -1,12 +1,10 @@
-package com.example.SpringV1.tn.talan.ServiceImpl;
+package tn.talan.example.ServiceImpl;
 
-import com.example.SpringV1.tn.talan.Dto.CategoryDto;
-import com.example.SpringV1.tn.talan.Dto.PostDto;
-import com.example.SpringV1.tn.talan.Entity.Category;
-import com.example.SpringV1.tn.talan.Entity.Post;
-import com.example.SpringV1.tn.talan.Helper.ModelMapperConverter;
-import com.example.SpringV1.tn.talan.Repository.categoryRepository;
-import com.example.SpringV1.tn.talan.Service.categoryService;
+import tn.talan.example.Dto.CategoryDto;
+import tn.talan.example.Entity.Category;
+import tn.talan.example.Helper.ModelMapperConverter;
+import tn.talan.example.Repository.categoryRepository;
+import tn.talan.example.Service.categoryService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

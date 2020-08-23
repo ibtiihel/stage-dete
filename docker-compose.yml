@@ -3,16 +3,16 @@ services:
   app:
     container_name: springboot-postgresql
     image: my_image
-    build: Activité1.2.2/Docker-compose.yml
+    build: .
     ports:
-      - 8080
-    depends_on:
-      - dbpostgresql
+      - "8080:8080"
+    links:
+      - "dbpostgresql:dbpostgresql"
   dbpostgresql :
     image: postgres
     container_name: postgres
     ports:
-      - 5432
+      - "5433:5432"
     environment:
       - POSTGRES_PASSWORD=bayousha
       - POSTGRES_USER=user_1

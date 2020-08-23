@@ -1,4 +1,4 @@
-package com.example.SpringV1.tn.talan.Entity;
+package tn.talan.example.Entity;
 import com.fasterxml.jackson.annotation.JsonFormat;
 import com.fasterxml.jackson.annotation.JsonIgnore;
 
@@ -9,7 +9,7 @@ import javax.persistence.*;
 
 
 @Entity
-
+@Table(name = "Post")
 public class Post {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)

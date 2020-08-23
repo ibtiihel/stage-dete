@@ -1,12 +1,11 @@
-package com.example.SpringV1.tn.talan.ServiceImpl;
-import com.example.SpringV1.tn.talan.Dto.PostDto;
-import com.example.SpringV1.tn.talan.Helper.ModelMapperConverter;
-import com.example.SpringV1.tn.talan.Service.postService;
-import com.example.SpringV1.tn.talan.Entity.Post;
-import com.example.SpringV1.tn.talan.Repository.postRepository;
+package tn.talan.example.ServiceImpl;
+import tn.talan.example.Dto.PostDto;
+import tn.talan.example.Helper.ModelMapperConverter;
+import tn.talan.example.Service.postService;
+import tn.talan.example.Entity.Post;
+import tn.talan.example.Repository.postRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
-import org.springframework.ui.ModelMap;
 
 import javax.transaction.Transactional;
 import java.util.List;
@@ -14,7 +13,7 @@ import java.util.Optional;
 
 @Service
 @Transactional
-public class PostServiceImpl implements postService{
+public class PostServiceImpl implements postService {
 
 
         @Autowired

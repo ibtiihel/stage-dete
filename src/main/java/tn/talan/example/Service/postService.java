@@ -1,7 +1,7 @@
-package com.example.SpringV1.tn.talan.Service;
+package tn.talan.example.Service;
 
-import com.example.SpringV1.tn.talan.Dto.PostDto;
-import com.example.SpringV1.tn.talan.Entity.Post;
+import tn.talan.example.Dto.PostDto;
+import tn.talan.example.Entity.Post;
 
 import java.util.List;
 

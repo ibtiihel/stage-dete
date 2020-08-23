@@ -1,8 +1,8 @@
-package com.example.SpringV1.tn.talan.Entity;
+package tn.talan.example.Entity;
 import javax.persistence.*;
 
 @Entity
-
+@Table(name = "Category")
 public class Category {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)

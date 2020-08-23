@@ -1,4 +1,4 @@
-package com.example.SpringV1.tn.talan.CORS;
+package tn.talan.example.CORS;
 
 import org.springframework.core.Ordered;
 import org.springframework.core.annotation.Order;
